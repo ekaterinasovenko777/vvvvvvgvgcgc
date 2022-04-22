@@ -1,0 +1,32 @@
+body{min-width: 100%;min-height: 100vh;font-family: 'Playfair Display', serif;}
+.conteiner{min-width: 1220px;min: height 100%;margin-left: auto;margin-right: auto;}
+.header-row{margin-left: 40px;margin-right: 40px;margin-top:20px;}
+.nav{display: flex;flex-direction: row;   align-items: center;justify-content: space-between;}
+.nav a{color: black;text-decoration: none;}
+.nav ul{list-style: none;display: flex;flex-direction: row;column-gap:1px;padding-left: 100px;}
+.nav li{color: #818181;} 
+.kak{display: flex;background-color:#F1FCF6
+   ;flex-direction: row;
+   align-items: center;Width:
+   319px;
+   Height:
+   70px;
+   radius: 12px;
+   Gap: 
+   8px;
+   padding: 12px 20px 12px 16px;}
+   .kak a{cursor: pointer;}
+   .section{position: static;
+      width: 1220px;
+      height: 525px;
+      left: 0px;
+      top: 135px;
+      background: url("../img/img/frame/Icon/Rectangle\ 272.png");flex: none;
+      order: 1;
+      flex-grow: 0;
+      margin: 1px 0px;}
+
+
+
+
+
